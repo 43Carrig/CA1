@@ -69,7 +69,7 @@
     <Compile Include="Assets\Scripts\MoveCube.cs" />
     <Compile Include="Assets\Scripts\MultiTouch.cs" />
     <Compile Include="Assets\Scripts\PinchToZoom.cs" />
-    <Compile Include="Assets\Scripts\Rotate.cs" />
+    <Compile Include="Assets\Scripts\RotateObject.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Sean/Documents/CA1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
