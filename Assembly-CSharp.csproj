@@ -65,10 +65,12 @@
     <Compile Include="Assets\Scripts\ColorChange.cs" />
     <Compile Include="Assets\Scripts\Drag.cs" />
     <Compile Include="Assets\Scripts\GyroscopeControl.cs" />
+    <Compile Include="Assets\Scripts\Manipulate.cs" />
     <Compile Include="Assets\Scripts\MoveCube.cs" />
     <Compile Include="Assets\Scripts\MultiTouch.cs" />
     <Compile Include="Assets\Scripts\PinchToZoom.cs" />
     <Compile Include="Assets\Scripts\RotateObject.cs" />
+    <Compile Include="Assets\Scripts\touchControl.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Sean/Documents/CA1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
